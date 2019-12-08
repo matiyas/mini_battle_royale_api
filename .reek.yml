@@ -1,3 +1,8 @@
+exclude_path:
+  - 'db/**/*'
+  - 'config/**/*'
+  - 'script/**/*'
+
 directories:
   'app/controllers':
     IrresponsibleModule:
